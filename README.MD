@@ -1,6 +1,6 @@
 # Конвертер валют
 
-Используются Flask и бесплатное апи от Apilayer (Fixer api)
+Используются Flask и бесплатное апи от Apilayer [(Fixer api)](https://apilayer.com/marketplace/fixer-api?utm_source=apilayermarketplace&utm_medium=featured)
 
 ## Установки
 
@@ -8,7 +8,10 @@
 
     pip install -r requirements.txt 
 
+Создать файл .env на подобии [.env.template](.env.template)
+
 Для запуска использовать сам файл main.py, или же __flask --app main run__
+
 
 ## Использование
 
